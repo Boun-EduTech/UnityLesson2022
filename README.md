@@ -1,4 +1,4 @@
-<img align="left" src="" alt="Boun-EduTech" width ="100%" height = "auto" /></p>
+<img align="left" src="https://github.com/Boun-EduTech/UnityLesson2022/blob/main/images/logo/unity.jpg?raw=true" alt="Boun-EduTech" width ="100%" height = "auto" /></p>
     
 # UnityLesson2022
 
@@ -122,7 +122,8 @@ Don't forget to give the project a star! Thanks again!
   1-Screenshots of Lesson 1
   <table> 
     <tr>
-        <td>  <img align="left" src="" alt="UnityLesson2022" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Boun-EduTech/UnityLesson2022/blob/main/images/ss/unitylesson1ss1scene.png?raw=true" alt="UnityLesson2022" width ="100%" height = "auto" /></p></td>
+                <td>  <img align="left" src="https://github.com/Boun-EduTech/UnityLesson2022/blob/main/images/ss/unitylesson1ss2game.png?raw=true" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
